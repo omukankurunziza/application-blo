@@ -1,8 +1,8 @@
-"""telve Migration
+"""nine Migration
 
-Revision ID: 234bdad48ccf
+Revision ID: 61fa2948e151
 Revises: 
-Create Date: 2019-03-05 16:31:31.465393
+Create Date: 2019-03-05 17:38:39.550360
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '234bdad48ccf'
+revision = '61fa2948e151'
 down_revision = None
 branch_labels = None
 depends_on = None
